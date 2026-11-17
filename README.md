@@ -4,7 +4,7 @@ Windows desktop tooling for Android tablet diagnostics: USB device inventory,
 ADB operations, AT-command diagnostics, driver inspection, firmware-package
 validation, and a local session log.
 
-Developed by [M-GOLEM](https://github.com/M-GOLEM).
+Developed by [mrsayrws](https://github.com/mrsayrws).
 
 GOLEM TABLET is a clean-room implementation. It does not contain code, assets,
 binaries, or UI resources from any third-party flashing utility, and it is not
@@ -116,10 +116,3 @@ marked as untested in the feature table.
 MIT — see [LICENSE](LICENSE). The app bundles no third-party binaries; `adb.exe` and
 `fastboot.exe` are loaded from your own Android SDK installation and keep
 their original licenses.
-
----
-
-<div align="center">
-  <sub>Built by <a href="https://github.com/M-GOLEM"><b>Mr.GOLEM</b></a> ·
-  watch the work on <a href="https://www.youtube.com/@golemsec">YouTube — GOLEM SEC</a></sub>
-</div>
