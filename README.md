@@ -12,6 +12,18 @@ affiliated with any device vendor.
 
 ![Devices](docs/images/devices.png)
 
+## Download
+
+The prebuilt Windows x64 package is attached to the release:
+
+| File | Contents |
+|---|---|
+| `GOLEM-TABLET-1.0.0-win-x64.zip` | Self-contained WPF build (.NET 8 runtime included) |
+
+Get it from the **[Releases](../../releases)** page, extract it and run
+`Golem.Tablet.exe`. The app needs no installer and no admin rights; `adb.exe`
+and `fastboot.exe` are optional and only used when you point the app at them.
+
 ## What it does
 
 | Module | Capability |
@@ -101,5 +113,6 @@ marked as untested in the feature table.
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE). Third-party notices are in
-[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+MIT — see [LICENSE](LICENSE). The app bundles no third-party binaries; `adb.exe` and
+`fastboot.exe` are loaded from your own Android SDK installation and keep
+their original licenses.
