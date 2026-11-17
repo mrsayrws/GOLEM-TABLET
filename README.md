@@ -116,3 +116,10 @@ marked as untested in the feature table.
 MIT — see [LICENSE](LICENSE). The app bundles no third-party binaries; `adb.exe` and
 `fastboot.exe` are loaded from your own Android SDK installation and keep
 their original licenses.
+
+---
+
+<div align="center">
+  <sub>Built by <a href="https://github.com/M-GOLEM"><b>Mr.GOLEM</b></a> ·
+  watch the work on <a href="https://www.youtube.com/@golemsec">YouTube — GOLEM SEC</a></sub>
+</div>
