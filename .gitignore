@@ -1,0 +1,6 @@
+# build output
+a*
+bin/
+obj/
+artifacts/
+*.user
