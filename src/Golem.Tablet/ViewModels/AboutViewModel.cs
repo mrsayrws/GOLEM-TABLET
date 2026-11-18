@@ -8,7 +8,7 @@ namespace Golem.Tablet.ViewModels;
 
 public sealed class AboutViewModel : ObservableObject
 {
-    public const string GitHubProfile = "https://github.com/M-GOLEM";
+    public const string GitHubProfile = "https://github.com/mrsayrws";
 
     private readonly IDialogService _dialogs;
 
@@ -20,7 +20,7 @@ public sealed class AboutViewModel : ObservableObject
 
     public string AppName => "GOLEM TABLET";
 
-    public string Developer => "M-GOLEM";
+    public string Developer => "Mr Sayrws";
 
     public string Version
     {

@@ -295,7 +295,7 @@
                                    Foreground="{StaticResource FaintBrush}" VerticalAlignment="Center" />
                     </StackPanel>
                     <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center"
-                               Text="GOLEM TABLET 1.0.0 · M-GOLEM"
+                               Text="GOLEM TABLET 1.0.0 · Mr Sayrws"
                                FontSize="10.5" Foreground="{StaticResource FaintBrush}" />
                 </Grid>
             </Border>

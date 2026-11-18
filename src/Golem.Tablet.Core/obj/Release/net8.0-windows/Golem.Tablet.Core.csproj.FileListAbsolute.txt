@@ -1,0 +1,13 @@
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\bin\Release\net8.0-windows\Golem.Tablet.Core.deps.json
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\bin\Release\net8.0-windows\Golem.Tablet.Core.dll
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\bin\Release\net8.0-windows\Golem.Tablet.Core.pdb
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.csproj.AssemblyReference.cache
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.AssemblyInfoInputs.cache
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.AssemblyInfo.cs
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.csproj.CoreCompileInputs.cache
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.sourcelink.json
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.dll
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\refint\Golem.Tablet.Core.dll
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\Golem.Tablet.Core.pdb
+F:\GOLEM-LINK\.tmp-repos\_rebrand\GOLEM-TABLET\src\Golem.Tablet.Core\obj\Release\net8.0-windows\ref\Golem.Tablet.Core.dll
